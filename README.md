@@ -1,2 +1,4 @@
-# Curso em Video - Git
-Primeiro repositório criado no curso de GIT do professor Guanabara
+# Curso em Video - Git and GitHub
+First repository made  in Guanabara's GIT course
+
+Work smarter AND harder
